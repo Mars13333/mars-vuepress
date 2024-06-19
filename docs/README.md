@@ -10,8 +10,8 @@ config:
       dark: 0.4
     hero:
       name: Mars Chin
-      tagline: 不断探索的编程爱好者。
-      text: 行有不得, 反求诸己
+      tagline: 知行合一，不负韶华。
+      text: 不断探索的编程爱好者。
       actions:
         -
           text: 我的博客

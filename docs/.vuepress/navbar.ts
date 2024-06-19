@@ -1,3 +1,4 @@
+// @PF: 导航栏配置
 import type {NavItem} from 'vuepress-theme-plume'
 
 export const myNavbar = [
@@ -10,28 +11,16 @@ export const myNavbar = [
     },
     {
         text: '笔记',
-        icon: 'icon-park-outline:more-three',
+        icon: 'material-symbols:book-2',
         items: [
-            {text: '笔记组 5555', link: '/sponsor/', icon: 'line-md:coffee-loop'},
-            {
-                text: '笔记组3333', link: '/sponsor1/', icon: 'carbon:friendship',
-                items: [
-                    'T1', 'T2'
-                ]
-            },
-            {
-                text: '笔记组9999',
-                icon: 'logos:vue',
-                items: [
-                    {text: '官方文档', link: 'https://v2.vuepress.vuejs.org', icon: 'logos:vue'},
-                    {text: '生态系统', link: 'https://ecosystem.vuejs.press/', icon: 'logos:vue'},
-                ],
-            },
+            {text: 'js', link: '/js/', icon: 'logos:jss'},
+            {text: 'vue', link: '/vue/', icon: 'logos:vue'},
+            {text: 'react', link: '/react/', icon: 'logos:react',},
         ],
     },
     {
         text: '更多',
-        icon: 'icon-park-outline:more-three',
+        icon: 'icon-park-outline:more-two',
         items: [
             {text: '书籍推荐', link: '/more1/', icon: 'line-md:coffee-loop'},
             {text: '站点导航', link: '/more2/', icon: 'jam:tools'},

@@ -1,8 +1,8 @@
 ---
-title: 笔记组3333
-author: pengzhanbo
+title: React
+author: Mars Chin
 createTime: 2024/04/18 18:03:50
-permalink: /sponsor1/
+permalink: /react/
 ---
 
 :::important 作者的话
@@ -17,8 +17,8 @@ asdasd
 
 ## 左侧列表
 
-- [caniuse 特性搜索](./T1.md)
-- [首页背景色板配置](./T2.md)
+- [caniuse 特性搜索](./R1)
+- [首页背景色板配置](./R2)
 
 111111
 

@@ -1,11 +1,11 @@
 ---
-title: 笔记组5555
-author: pengzhanbo
+title: JavaScript
+author: Mars Chin
 createTime: 2024/04/18 18:03:50
 article: false
 aside: false
 readingTime: false
-permalink: /sponsor/
+permalink: /js/
 ---
 
 :::important 作者的话
@@ -23,7 +23,7 @@ asdasd
 
 ## title1
 
-asdfsdf 
+asdfsdf
 
 
 
@@ -32,6 +32,6 @@ asdfsdf
 dfghfghfg
 
 
-## title3 
+## title3
 
 34534fg34
